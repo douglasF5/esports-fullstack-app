@@ -11,7 +11,7 @@
 
 ## About
 
-The application allows users to publish their availability, find and connect to other users playing the same, so they can play together.
+The application allows users to publish their availability, find and connect to other users playing the same game, so they can play together.
 
 In this project, the premise was to explore the basics of client-server architecture. The backend exposes a simple REST API to serve and create resources based on incoming requests. On the client side, the web and mobile apps are responsible for communicating with the server as well as providing an interface for handling user interactions.
 
