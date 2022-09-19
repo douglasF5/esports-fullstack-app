@@ -2,7 +2,7 @@
 
 -   [About](#about)
 -   [Web client](#web-client)
--   [Web server/API](#web-server-api)
+-   [Web server/API](#web-serverapi)
 -   [Mobile client](#mobile-client)
 -   [Installation](#installation)
 -   [Extra notes](#extra-notes)
