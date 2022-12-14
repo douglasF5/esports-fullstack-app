@@ -1,4 +1,4 @@
-# Esports full-stack app - Exercise from NLW by Rocketseat
+# Esports full-stack app
 
 -   [About](#about)
 -   [Web client](#web-client)
