@@ -21,7 +21,7 @@ In this project, the premise was to explore the basics of client-server architec
 
 <img src=".github/project-screenshot-web.png"><br>
 
-Web client built with ReactJS. Main features include listing games and create ads.
+Web client built with ReactJS. The main features include listing games and creating ads.
 
 ### Tools
 
@@ -44,7 +44,7 @@ Rest API with routes for listing and creating resources.
 -   NodeJS
 -   ExpressJS
 -   Prisma ORM
--   SQlite
+-   SQLite
 -   TypeScript
 
 <br>
@@ -53,7 +53,7 @@ Rest API with routes for listing and creating resources.
 
 <img src=".github/project-screenshot-mobile.png"><br>
 
-Cross-platform mobile client built with React Native. Main features include browse ads and find players.
+The cross-platform mobile client is built with React Native. The main features include browsing ads and finding players.
 
 ### Tools
 
@@ -65,7 +65,7 @@ Cross-platform mobile client built with React Native. Main features include brow
 
 ## Installation
 
--   Navigate to an application root directory (mobile, server or web)
+-   Navigate to an application root directory (mobile, server, or web)
 -   Install dependencies by running `npm install`
 -   Run the application with `npm run dev`
 
@@ -78,5 +78,5 @@ Two things to keep in mind:
 
 ## Extra notes
 
--   As an exercise, this project wasn’t focused on advanced optimizations regarding data storage, processing, accessibility, scalability, cross-browser compatibility, etc. There’s still a lot to be done about it.
--   As most projects, this one is not bug/error-free. If you find any bug or unexpected behavior, feel free to get in touch, here is my email - dfaferreira46@gmail.com
+- This project is purely a practical exercise intended for developing and/or showcasing my skills in the tools/techniques/concepts mentioned above. It's not meant to be a complete production-ready solution. Feel free to reach out if you have any questions or want to chat about it!
+- This exercise was built following the lessons from [Rocketseat](https://www.rocketseat.com.br/)'s Ignite ReactJS program. It may or may not have been adapted/redesigned by me.
